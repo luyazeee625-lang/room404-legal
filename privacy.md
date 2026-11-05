@@ -117,7 +117,7 @@ title: 후킬유킬 개인정보처리방침
 | 구분 | 내용 |
 |---|---|
 | 책임자 | MunEob Kim |
-| 연락처 | room404.help@gmail.com |
+| 연락처 | wkuk.help@gmail.com |
 
 개인정보 침해에 대한 신고나 상담은 개인정보침해신고센터(privacy.kisa.or.kr, 국번 없이 118), 개인정보분쟁조정위원회(www.kopico.go.kr, 1833-6972)에 할 수 있습니다.
 

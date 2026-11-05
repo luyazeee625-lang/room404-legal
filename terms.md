@@ -53,4 +53,4 @@ title: 후킬유킬 이용약관
 이 약관은 대한민국 법을 따르며, 분쟁은 민사소송법에 따른 관할 법원에서 해결합니다.
 
 ## 문의
-room404.help@gmail.com
+wkuk.help@gmail.com
